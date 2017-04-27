@@ -87,6 +87,13 @@
 /sys/devices/platform/leds-mt65xx/leds/blue   delay_on      0664  system   system
 /sys/devices/platform/leds-mt65xx/leds/blue   delay_off      0664  system   system
 
+/sys/devices/led@5/leds/green delay_on 0664 system system
+/sys/devices/led@5/leds/green delay_off 0664 system system
+/sys/devices/led@5/leds/red delay_on 0664 system system
+/sys/devices/led@5/leds/red delay_off 0664 system system
+/sys/devices/led@5/leds/blue delay_on 0664 system system
+/sys/devices/led@5/leds/blue delay_off 0664 system system
+
 #GPIO
 /dev/mtgpio               0600   radio      root
 

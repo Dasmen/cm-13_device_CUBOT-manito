@@ -153,4 +153,4 @@ BLOCK_BASED_OTA := false
 TARGET_LDPRELOAD += libxlog.so # for symbols in mtkaudio.cpp
 
 #BOARD_USES_LEGACY_MTK_AV_BLOB := true
-#TARGET_HAS_LEGACY_CAMERA_HAL1 := true
+TARGET_HAS_LEGACY_CAMERA_HAL1 := true

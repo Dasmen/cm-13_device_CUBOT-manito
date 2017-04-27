@@ -1,0 +1,336 @@
+============================================
+PLATFORM_VERSION_CODENAME=REL
+PLATFORM_VERSION=6.0.1
+CM_VERSION=13.0-20170427-UNOFFICIAL-manito_4g
+TARGET_PRODUCT=cm_manito_4g
+TARGET_BUILD_VARIANT=userdebug
+TARGET_BUILD_TYPE=release
+TARGET_BUILD_APPS=
+TARGET_ARCH=arm64
+TARGET_ARCH_VARIANT=armv8-a
+TARGET_CPU_VARIANT=cortex-a53
+TARGET_2ND_ARCH=arm
+TARGET_2ND_ARCH_VARIANT=armv7-a-neon
+TARGET_2ND_CPU_VARIANT=cortex-a53
+HOST_ARCH=x86_64
+HOST_OS=linux
+HOST_OS_EXTRA=Linux-4.4.0-53-generic-x86_64-with-LinuxMint-18.1-serena
+HOST_BUILD_TYPE=release
+BUILD_ID=MOB31K
+OUT_DIR=/home/forb/cm13/out
+============================================
+"ebtables is disabled on this build"
+external/speex/Android.mk:55: TODOArm64: enable neon in libspeex
+build/core/base_rules.mk:559: предупреждение: переопределение способа для цели «/home/forb/cm13/out/target/product/manito_4g/root/res/images/charger/battery_fail.png»
+build/core/base_rules.mk:559: предупреждение: старый способ для цели «/home/forb/cm13/out/target/product/manito_4g/root/res/images/charger/battery_fail.png» игнорируются
+find: «dummy»: Нет такого файла или каталога
+[Dasmen] copying DP Framework proprietary blobs
+build/core/Makefile:46: предупреждение: переопределение способа для цели «/home/forb/cm13/out/target/product/manito_4g/system/bin/uiautomator»
+build/core/base_rules.mk:559: предупреждение: старый способ для цели «/home/forb/cm13/out/target/product/manito_4g/system/bin/uiautomator» игнорируются
+build/core/Makefile:46: предупреждение: переопределение способа для цели «/home/forb/cm13/out/target/product/manito_4g/system/bin/pppd»
+build/core/base_rules.mk:559: предупреждение: старый способ для цели «/home/forb/cm13/out/target/product/manito_4g/system/bin/pppd» игнорируются
+build/core/Makefile:46: предупреждение: переопределение способа для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib/libtinycompress.so»
+build/core/base_rules.mk:559: предупреждение: старый способ для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib/libtinycompress.so» игнорируются
+build/core/Makefile:46: предупреждение: переопределение способа для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib64/libtinycompress.so»
+build/core/base_rules.mk:559: предупреждение: старый способ для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib64/libtinycompress.so» игнорируются
+build/core/Makefile:46: предупреждение: переопределение способа для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib/libion.so»
+build/core/base_rules.mk:559: предупреждение: старый способ для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib/libion.so» игнорируются
+build/core/Makefile:46: предупреждение: переопределение способа для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib64/libion.so»
+build/core/base_rules.mk:559: предупреждение: старый способ для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib64/libion.so» игнорируются
+build/core/Makefile:46: предупреждение: переопределение способа для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib/libwebrtc_audio_preprocessing.so»
+build/core/base_rules.mk:559: предупреждение: старый способ для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib/libwebrtc_audio_preprocessing.so» игнорируются
+build/core/Makefile:46: предупреждение: переопределение способа для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib64/libwebrtc_audio_preprocessing.so»
+build/core/base_rules.mk:559: предупреждение: старый способ для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib64/libwebrtc_audio_preprocessing.so» игнорируются
+build/core/Makefile:46: предупреждение: переопределение способа для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib/libtinyxml.so»
+build/core/base_rules.mk:559: предупреждение: старый способ для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib/libtinyxml.so» игнорируются
+build/core/Makefile:46: предупреждение: переопределение способа для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib64/libtinyxml.so»
+build/core/base_rules.mk:559: предупреждение: старый способ для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib64/libtinyxml.so» игнорируются
+build/core/Makefile:46: предупреждение: переопределение способа для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib/libtinyalsa.so»
+build/core/base_rules.mk:559: предупреждение: старый способ для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib/libtinyalsa.so» игнорируются
+build/core/Makefile:46: предупреждение: переопределение способа для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib64/libtinyalsa.so»
+build/core/base_rules.mk:559: предупреждение: старый способ для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib64/libtinyalsa.so» игнорируются
+build/core/Makefile:46: предупреждение: переопределение способа для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib/libaudio-resampler.so»
+build/core/base_rules.mk:559: предупреждение: старый способ для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib/libaudio-resampler.so» игнорируются
+build/core/Makefile:46: предупреждение: переопределение способа для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib64/libaudio-resampler.so»
+build/core/base_rules.mk:559: предупреждение: старый способ для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib64/libaudio-resampler.so» игнорируются
+build/core/Makefile:46: предупреждение: переопределение способа для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib/hw/gralloc.default.so»
+build/core/base_rules.mk:559: предупреждение: старый способ для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib/hw/gralloc.default.so» игнорируются
+build/core/Makefile:46: предупреждение: переопределение способа для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib64/hw/gralloc.default.so»
+build/core/base_rules.mk:559: предупреждение: старый способ для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib64/hw/gralloc.default.so» игнорируются
+build/core/Makefile:46: предупреждение: переопределение способа для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib/hw/keystore.default.so»
+build/core/base_rules.mk:559: предупреждение: старый способ для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib/hw/keystore.default.so» игнорируются
+build/core/Makefile:46: предупреждение: переопределение способа для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib64/hw/keystore.default.so»
+build/core/base_rules.mk:559: предупреждение: старый способ для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib64/hw/keystore.default.so» игнорируются
+build/core/Makefile:46: предупреждение: переопределение способа для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib/hw/vibrator.default.so»
+build/core/base_rules.mk:559: предупреждение: старый способ для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib/hw/vibrator.default.so» игнорируются
+build/core/Makefile:46: предупреждение: переопределение способа для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib64/hw/vibrator.default.so»
+build/core/base_rules.mk:559: предупреждение: старый способ для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib64/hw/vibrator.default.so» игнорируются
+build/core/Makefile:46: предупреждение: переопределение способа для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib/hw/local_time.default.so»
+build/core/base_rules.mk:559: предупреждение: старый способ для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib/hw/local_time.default.so» игнорируются
+build/core/Makefile:46: предупреждение: переопределение способа для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib64/hw/local_time.default.so»
+build/core/base_rules.mk:559: предупреждение: старый способ для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib64/hw/local_time.default.so» игнорируются
+build/core/Makefile:46: предупреждение: переопределение способа для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib/hw/power.default.so»
+build/core/base_rules.mk:559: предупреждение: старый способ для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib/hw/power.default.so» игнорируются
+build/core/Makefile:46: предупреждение: переопределение способа для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib64/hw/power.default.so»
+build/core/base_rules.mk:559: предупреждение: старый способ для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib64/hw/power.default.so» игнорируются
+build/core/Makefile:46: предупреждение: переопределение способа для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib/libcurl.so»
+build/core/base_rules.mk:559: предупреждение: старый способ для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib/libcurl.so» игнорируются
+build/core/Makefile:46: предупреждение: переопределение способа для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib64/libcurl.so»
+build/core/base_rules.mk:559: предупреждение: старый способ для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib64/libcurl.so» игнорируются
+build/core/Makefile:46: предупреждение: переопределение способа для цели «/home/forb/cm13/out/target/product/manito_4g/system/vendor/lib/mediadrm/libmockdrmcryptoplugin.so»
+build/core/base_rules.mk:559: предупреждение: старый способ для цели «/home/forb/cm13/out/target/product/manito_4g/system/vendor/lib/mediadrm/libmockdrmcryptoplugin.so» игнорируются
+build/core/Makefile:46: предупреждение: переопределение способа для цели «/home/forb/cm13/out/target/product/manito_4g/system/vendor/lib64/mediadrm/libmockdrmcryptoplugin.so»
+build/core/base_rules.mk:559: предупреждение: старый способ для цели «/home/forb/cm13/out/target/product/manito_4g/system/vendor/lib64/mediadrm/libmockdrmcryptoplugin.so» игнорируются
+build/core/Makefile:46: предупреждение: переопределение способа для цели «/home/forb/cm13/out/target/product/manito_4g/system/vendor/lib/mediadrm/libdrmclearkeyplugin.so»
+build/core/base_rules.mk:559: предупреждение: старый способ для цели «/home/forb/cm13/out/target/product/manito_4g/system/vendor/lib/mediadrm/libdrmclearkeyplugin.so» игнорируются
+build/core/Makefile:46: предупреждение: переопределение способа для цели «/home/forb/cm13/out/target/product/manito_4g/system/vendor/lib64/mediadrm/libdrmclearkeyplugin.so»
+build/core/base_rules.mk:559: предупреждение: старый способ для цели «/home/forb/cm13/out/target/product/manito_4g/system/vendor/lib64/mediadrm/libdrmclearkeyplugin.so» игнорируются
+build/core/Makefile:46: предупреждение: переопределение способа для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib/libfs_mgr.so»
+build/core/base_rules.mk:559: предупреждение: старый способ для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib/libfs_mgr.so» игнорируются
+build/core/Makefile:46: предупреждение: переопределение способа для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib64/libfs_mgr.so»
+build/core/base_rules.mk:559: предупреждение: старый способ для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib64/libfs_mgr.so» игнорируются
+build/core/Makefile:46: предупреждение: переопределение способа для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib/hw/audio.a2dp.default.so»
+build/core/base_rules.mk:559: предупреждение: старый способ для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib/hw/audio.a2dp.default.so» игнорируются
+build/core/Makefile:46: предупреждение: переопределение способа для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib64/hw/audio.a2dp.default.so»
+build/core/base_rules.mk:559: предупреждение: старый способ для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib64/hw/audio.a2dp.default.so» игнорируются
+build/core/Makefile:46: предупреждение: переопределение способа для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib/hw/audio_policy.stub.so»
+build/core/base_rules.mk:559: предупреждение: старый способ для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib/hw/audio_policy.stub.so» игнорируются
+build/core/Makefile:46: предупреждение: переопределение способа для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib64/hw/audio_policy.stub.so»
+build/core/base_rules.mk:559: предупреждение: старый способ для цели «/home/forb/cm13/out/target/product/manito_4g/system/lib64/hw/audio_policy.stub.so» игнорируются
+PRODUCT_COPY_FILES device/cubot/manito_4g/audio/audio_policy.conf:system/etc/audio_policy.conf ignored.
+PRODUCT_COPY_FILES device/cubot/manito_4g/configs/agps_profiles_conf2.xml:system/etc/agps_profiles_conf2.xml ignored.
+PRODUCT_COPY_FILES device/cubot/manito_4g/configs/mtk-kpd.kl:system/usr/keylayout/mtk-kpd.kl ignored.
+PRODUCT_COPY_FILES device/cubot/manito_4g/configs/thermal.conf:system/etc/.tp/thermal.conf ignored.
+PRODUCT_COPY_FILES device/cubot/manito_4g/configs/thermal.off.conf:system/etc/.tp/thermal.off.conf ignored.
+PRODUCT_COPY_FILES device/cubot/manito_4g/configs/.ht120.mtc:system/etc/.tp/.ht120.mtc ignored.
+PRODUCT_COPY_FILES device/generic/goldfish/data/etc/apns-conf.xml:system/etc/apns-conf.xml ignored.
+PRODUCT_COPY_FILES device/generic/goldfish/camera/media_profiles.xml:system/etc/media_profiles.xml ignored.
+PRODUCT_COPY_FILES device/generic/goldfish/camera/media_codecs.xml:system/etc/media_codecs.xml ignored.
+PRODUCT_COPY_FILES hardware/libhardware_legacy/audio/audio_policy.conf:system/etc/audio_policy.conf ignored.
+No private recovery resources for TARGET_DEVICE manito_4g
+build/core/tasks/kernel.mk:160: ***************************************************************
+build/core/tasks/kernel.mk:161: * Using prebuilt kernel binary instead of source              *
+build/core/tasks/kernel.mk:162: * THIS IS DEPRECATED, AND WILL BE DISCONTINUED                *
+build/core/tasks/kernel.mk:163: * Please configure your device to download the kernel         *
+build/core/tasks/kernel.mk:164: * source repository to kernel/cubot/manito_4g
+build/core/tasks/kernel.mk:165: * See http://wiki.cyanogenmod.org/w/Doc:_integrated_kernel_building
+build/core/tasks/kernel.mk:166: * for more information                                        *
+build/core/tasks/kernel.mk:167: ***************************************************************
+build/core/tasks/kernel.mk:367: предупреждение: переопределение способа для цели «/home/forb/cm13/out/target/product/manito_4g/kernel»
+build/core/Makefile:46: предупреждение: старый способ для цели «/home/forb/cm13/out/target/product/manito_4g/kernel» игнорируются
+[33mhost Executable:[0m validatekeymaps (/home/forb/cm13/out/host/linux-x86/obj/EXECUTABLES/validatekeymaps_intermediates/validatekeymaps)
+[36mInstall: /home/forb/cm13/out/host/linux-x86/lib64/libc++.so[0m
+[36mInstall: /home/forb/cm13/out/host/linux-x86/framework/antlr-runtime.jar[0m
+[36mInstall: /home/forb/cm13/out/host/linux-x86/framework/guavalib.jar[0m
+[33mhost SharedLib:[0m libcrypto-host (/home/forb/cm13/out/host/linux-x86/obj/lib/libcrypto-host.so)
+[36mhost Prebuilt:[0m jarjar-apache-ant (/home/forb/cm13/out/host/common/obj/JAVA_LIBRARIES/jarjar-apache-ant_intermediates/javalib.jar)
+[36mhost Prebuilt:[0m jarjar-maven-plugin-api (/home/forb/cm13/out/host/common/obj/JAVA_LIBRARIES/jarjar-maven-plugin-api_intermediates/javalib.jar)
+[36mhost Prebuilt:[0m jarjar-asm (/home/forb/cm13/out/host/common/obj/JAVA_LIBRARIES/jarjar-asm_intermediates/javalib.jar)
+[36mhost Prebuilt:[0m jarjar-asm-commons (/home/forb/cm13/out/host/common/obj/JAVA_LIBRARIES/jarjar-asm-commons_intermediates/javalib.jar)
+[33mhost Executable:[0m aidl (/home/forb/cm13/out/host/linux-x86/obj/EXECUTABLES/aidl_intermediates/aidl)
+[36mhost Prebuilt:[0m asm-tools (/home/forb/cm13/out/host/common/obj/JAVA_LIBRARIES/asm-tools_intermediates/javalib.jar)
+[36mhost Prebuilt:[0m guava-tools (/home/forb/cm13/out/host/common/obj/JAVA_LIBRARIES/guava-tools_intermediates/javalib.jar)
+[33mhost Executable:[0m aapt (/home/forb/cm13/out/host/linux-x86/obj/EXECUTABLES/aapt_intermediates/aapt)
+[36mtarget Prebuilt:[0m  (/home/forb/cm13/out/target/product/manito_4g/system/bin/monkey)
+[36mtarget Prebuilt:[0m  (/home/forb/cm13/out/target/product/manito_4g/system/usr/share/bmd/RFFspeed_501.bmd)
+[36mtarget Prebuilt:[0m  (/home/forb/cm13/out/target/product/manito_4g/system/usr/share/bmd/RFFstd_501.bmd)
+[36mtarget Prebuilt:[0m  (/home/forb/cm13/out/target/product/manito_4g/system/bin/bmgr)
+[36mtarget Prebuilt:[0m  (/home/forb/cm13/out/target/product/manito_4g/system/bin/ime)
+[36mtarget Prebuilt:[0m  (/home/forb/cm13/out/target/product/manito_4g/system/bin/input)
+[36mtarget Prebuilt:[0m  (/home/forb/cm13/out/target/product/manito_4g/system/bin/pm)
+[36mtarget Prebuilt:[0m  (/home/forb/cm13/out/target/product/manito_4g/system/bin/svc)
+[36mtarget Prebuilt:[0m  (/home/forb/cm13/out/target/product/manito_4g/kernel)
+[36mInstall: /home/forb/cm13/out/host/linux-x86/bin/adb[0m
+[33mhost SharedLib:[0m libc++_32 (/home/forb/cm13/out/host/linux-x86/obj32/lib/libc++.so)
+[33mhost SharedLib:[0m libbacktrace_test (/home/forb/cm13/out/host/linux-x86/obj/lib/libbacktrace_test.so)
+[33mhost SharedLib:[0m liblog (/home/forb/cm13/out/host/linux-x86/obj/lib/liblog.so)
+[33mhost SharedLib:[0m libunwind (/home/forb/cm13/out/host/linux-x86/obj/lib/libunwind.so)
+clang: warning: argument unused during compilation: '-nodefaultlibs'
+[36mhost Prebuilt:[0m libLLVM (/home/forb/cm13/out/host/linux-x86/obj/lib/libLLVM.so)
+[33mhost Executable:[0m llvm-tblgen (/home/forb/cm13/out/host/linux-x86/obj/EXECUTABLES/llvm-tblgen_intermediates/llvm-tblgen)
+[36mInstall: /home/forb/cm13/out/host/linux-x86/lib64/libcompiler_rt.so[0m
+Symlink: /home/forb/cm13/out/host/linux-x86/bin/dalvikvm -> dalvikvm64
+[33mhost SharedLib:[0m libnativehelper (/home/forb/cm13/out/host/linux-x86/obj/lib/libnativehelper.so)
+[33mhost C++:[0m libart-compiler <= art/compiler/compiled_method.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/global_value_numbering.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/gvn_dead_code_elimination.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/local_value_numbering.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/type_inference.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/quick/arm/assemble_arm.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/quick/arm/call_arm.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/quick/arm/fp_arm.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/quick/arm/int_arm.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/quick/arm/target_arm.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/quick/arm/utility_arm.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/quick/arm64/assemble_arm64.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/quick/arm64/call_arm64.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/quick/arm64/fp_arm64.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/quick/arm64/int_arm64.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/quick/arm64/target_arm64.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/quick/arm64/utility_arm64.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/quick/codegen_util.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/quick/dex_file_method_inliner.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/quick/dex_file_to_method_inliner_map.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/quick/gen_common.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/quick/gen_invoke.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/quick/gen_loadstore.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/quick/lazy_debug_frame_opcode_writer.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/quick/local_optimizations.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/quick/mips/assemble_mips.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/quick/mips/call_mips.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/quick/mips/fp_mips.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/quick/mips/int_mips.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/quick/mips/target_mips.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/quick/mips/utility_mips.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/quick/mir_to_lir.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/quick/quick_compiler.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/quick/ralloc_util.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/quick/resource_mask.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/quick/x86/assemble_x86.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/quick/x86/call_x86.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/quick/x86/fp_x86.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/quick/x86/int_x86.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/quick/x86/target_x86.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/quick/x86/utility_x86.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/dex_to_dex_compiler.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/bb_optimizations.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/compiler_ir.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/mir_analysis.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/mir_dataflow.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/mir_field_info.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/mir_graph.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/mir_method_info.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/mir_optimization.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/post_opt_passes.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/pass_driver_me_opts.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/pass_driver_me_post_opt.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/pass_manager.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/ssa_transformation.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/verified_method.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/verification_results.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/vreg_analysis.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/dex/quick_compiler_callbacks.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/driver/compiler_driver.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/driver/compiler_options.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/driver/dex_compilation_unit.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/linker/relative_patcher.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/linker/arm/relative_patcher_arm_base.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/linker/arm/relative_patcher_thumb2.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/linker/arm64/relative_patcher_arm64.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/linker/x86/relative_patcher_x86_base.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/linker/x86/relative_patcher_x86.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/linker/x86_64/relative_patcher_x86_64.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/jit/jit_compiler.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/jni/quick/arm/calling_convention_arm.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/jni/quick/arm64/calling_convention_arm64.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/jni/quick/mips/calling_convention_mips.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/jni/quick/mips64/calling_convention_mips64.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/jni/quick/x86/calling_convention_x86.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/jni/quick/x86_64/calling_convention_x86_64.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/jni/quick/calling_convention.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/jni/quick/jni_compiler.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/optimizing/boolean_simplifier.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/optimizing/builder.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/optimizing/bounds_check_elimination.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/optimizing/code_generator.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/optimizing/code_generator_arm.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/optimizing/code_generator_arm64.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/optimizing/code_generator_mips64.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/optimizing/code_generator_x86.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/optimizing/code_generator_x86_64.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/optimizing/code_generator_utils.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/optimizing/constant_folding.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/optimizing/dead_code_elimination.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/optimizing/graph_checker.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/optimizing/graph_visualizer.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/optimizing/gvn.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/optimizing/inliner.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/optimizing/instruction_simplifier.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/optimizing/intrinsics.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/optimizing/intrinsics_arm.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/optimizing/intrinsics_arm64.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/optimizing/intrinsics_x86.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/optimizing/intrinsics_x86_64.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/optimizing/licm.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/optimizing/locations.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/optimizing/nodes.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/optimizing/optimization.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/optimizing/optimizing_compiler.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/optimizing/parallel_move_resolver.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/optimizing/prepare_for_register_allocation.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/optimizing/primitive_type_propagation.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/optimizing/reference_type_propagation.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/optimizing/register_allocator.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/optimizing/side_effects_analysis.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/optimizing/ssa_builder.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/optimizing/ssa_liveness_analysis.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/optimizing/ssa_phi_elimination.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/optimizing/stack_map_stream.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/trampolines/trampoline_compiler.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/utils/arena_bit_vector.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/utils/arm/assembler_arm.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/utils/arm/assembler_arm32.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/utils/arm/assembler_thumb2.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/utils/arm/managed_register_arm.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/utils/arm64/assembler_arm64.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/utils/arm64/managed_register_arm64.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/utils/assembler.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/utils/mips/assembler_mips.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/utils/mips/managed_register_mips.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/utils/mips64/assembler_mips64.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/utils/mips64/managed_register_mips64.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/utils/x86/assembler_x86.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/utils/x86/managed_register_x86.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/utils/x86_64/assembler_x86_64.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/utils/x86_64/managed_register_x86_64.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/utils/swap_space.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/buffered_output_stream.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/compiler.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/elf_writer.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/elf_writer_debug.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/elf_writer_quick.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/file_output_stream.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/image_writer.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/oat_writer.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/output_stream.cc
+[33mhost C++:[0m libart-compiler <= art/compiler/vector_output_stream.cc
+[33mhost C++:[0m libart-compiler <= /home/forb/cm13/out/host/linux-x86/obj/SHARED_LIBRARIES/libart-compiler_intermediates/dex/quick/arm/arm_lir_operator_out.cc
+[33mhost C++:[0m libart-compiler <= /home/forb/cm13/out/host/linux-x86/obj/SHARED_LIBRARIES/libart-compiler_intermediates/dex/quick/arm64/arm64_lir_operator_out.cc
+[33mhost C++:[0m libart-compiler <= /home/forb/cm13/out/host/linux-x86/obj/SHARED_LIBRARIES/libart-compiler_intermediates/dex/quick/mips/mips_lir_operator_out.cc
+[33mhost C++:[0m libart-compiler <= /home/forb/cm13/out/host/linux-x86/obj/SHARED_LIBRARIES/libart-compiler_intermediates/dex/quick/resource_mask_operator_out.cc
+[33mhost C++:[0m libart-compiler <= /home/forb/cm13/out/host/linux-x86/obj/SHARED_LIBRARIES/libart-compiler_intermediates/dex/compiler_enums_operator_out.cc
+[33mhost C++:[0m libart-compiler <= /home/forb/cm13/out/host/linux-x86/obj/SHARED_LIBRARIES/libart-compiler_intermediates/dex/global_value_numbering_operator_out.cc
+[33mhost C++:[0m libart-compiler <= /home/forb/cm13/out/host/linux-x86/obj/SHARED_LIBRARIES/libart-compiler_intermediates/dex/pass_me_operator_out.cc
+[33mhost C++:[0m libart-compiler <= /home/forb/cm13/out/host/linux-x86/obj/SHARED_LIBRARIES/libart-compiler_intermediates/driver/compiler_driver_operator_out.cc
+[33mhost C++:[0m libart-compiler <= /home/forb/cm13/out/host/linux-x86/obj/SHARED_LIBRARIES/libart-compiler_intermediates/driver/compiler_options_operator_out.cc
+[33mhost C++:[0m libart-compiler <= /home/forb/cm13/out/host/linux-x86/obj/SHARED_LIBRARIES/libart-compiler_intermediates/image_writer_operator_out.cc
+[33mhost C++:[0m libart-compiler <= /home/forb/cm13/out/host/linux-x86/obj/SHARED_LIBRARIES/libart-compiler_intermediates/optimizing/locations_operator_out.cc
+[33mhost C++:[0m libart-compiler <= /home/forb/cm13/out/host/linux-x86/obj/SHARED_LIBRARIES/libart-compiler_intermediates/utils/arm/constants_arm_operator_out.cc
+[33mhost asm:[0m libart <= art/runtime/arch/x86_64/jni_entrypoints_x86_64.S
+[33mhost asm:[0m libart <= art/runtime/arch/x86_64/memcmp16_x86_64.S
+[33mhost asm:[0m libart <= art/runtime/arch/x86_64/quick_entrypoints_x86_64.S
+[33mhost C++:[0m libart <= art/runtime/atomic.cc
+[33mhost C++:[0m libart <= art/runtime/art_field.cc
+[33mhost C++:[0m libart <= art/runtime/art_method.cc
+[33mhost C++:[0m libart <= art/runtime/barrier.cc
+[33mhost C++:[0m libart <= art/runtime/base/allocator.cc
+[33mhost C++:[0m libart <= art/runtime/base/arena_allocator.cc
+[33mhost C++:[0m libart <= art/runtime/base/bit_vector.cc
+[33mhost C++:[0m libart <= art/runtime/base/hex_dump.cc
+[33mhost C++:[0m libart <= art/runtime/base/logging.cc
+[33mhost C++:[0m libart <= art/runtime/base/mutex.cc
+[33mhost C++:[0m libart <= art/runtime/base/scoped_arena_allocator.cc
+[33mhost C++:[0m libart <= art/runtime/base/scoped_flock.cc
+[33mhost C++:[0m libart <= art/runtime/base/stringpiece.cc
+[33mhost C++:[0m libart <= art/runtime/base/stringprintf.cc
+[33mhost C++:[0m libart <= art/runtime/base/time_utils.cc
+[33mhost C++:[0m libart <= art/runtime/base/timing_logger.cc
+[33mhost C++:[0m libart <= art/runtime/base/unix_file/fd_file.cc
+[33mhost C++:[0m libart <= art/runtime/base/unix_file/random_access_file_utils.cc
+[33mhost C++:[0m libart <= art/runtime/check_jni.cc
+[33mhost C++:[0m libart <= art/runtime/class_linker.cc
+[33mhost C++:[0m libart <= art/runtime/common_throws.cc
+[33mhost C++:[0m libart <= art/runtime/debugger.cc
+[33mhost C++:[0m libart <= art/runtime/dex_file.cc
+[33mhost C++:[0m libart <= art/runtime/dex_file_verifier.cc
+[33mhost C++:[0m libart <= art/runtime/dex_instruction.cc

@@ -152,3 +152,12 @@ ro.telephony.default_network=9
 persist.sys.display.clearMotion=0
 # ro.mtk_clearmotion_support=1
 fmradio.driver.enable=1
+
+#This is required for the camera
+media.stagefright.legacyencoder=true
+media.stagefright.less-secure=true
+
+#Fix for l36 variant 1080p recording issue
+camera.disable_zsl_mode=1
+persist.camera.HAL3.enabled=0
+persist.camera.cpp.duplication=false

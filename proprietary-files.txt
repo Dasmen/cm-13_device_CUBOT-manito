@@ -1,7 +1,6 @@
 app/MtkBt/MtkBt.apk
 app/Camera/lib{,64}/arm/libpanorama.so
 app/Camera/lib{,64}/arm/libDocVfbEngineLib_m81.so
-app/YGPS/YGPS.apk
 xbin/mnld
 xbin/BGW
 bin/mtkrildmd2
